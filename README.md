@@ -19,7 +19,7 @@ O trabalho foi conduzido como uma cadeia de decisão:
 
 > documentação → regras → restrições e oportunidades → forma de inscrição → cotas → categorias → riscos → alternativas de projeto → comparação qualitativa → recomendação → orientação para futura redação
 
-O resultado foi um guia estratégico, não uma inscrição. A revisão retrospectiva posterior foi usada para delimitar o que efetivamente ocorreu e evitar que o case atribua resultados ou etapas inexistentes ao trabalho.
+O resultado foi um guia estratégico com quatro briefings de projeto, comparação qualitativa das alternativas e orientação para uma futura redação. As recomendações dependiam de condições que a LIMEBH ainda precisaria confirmar antes de uma eventual inscrição.
 
 ## Resultado
 
@@ -40,7 +40,7 @@ A LIMEBH **não realizou inscrição** no Fomento BH 2026. Portanto, não houve 
 
 ## Alternativas avaliadas
 
-| Alternativa | Categoria | Leitura registrada |
+| Alternativa | Categoria | Avaliação |
 |---|---|---|
 | LIMEBH Lab — Formação, Trabalho e Inclusão na Música Eletrônica | Formação | Rota prioritária: aderente à missão, executável e com metas mais fáceis de comprovar. |
 | Mapa Vivo da Música Eletrônica de Belo Horizonte | Memória e Preservação | Segunda rota forte: distintiva e coerente com a missão de mapeamento e memória. |
@@ -72,7 +72,7 @@ Não houve RAG, embeddings, banco vetorial, agentes autônomos, modelo preditivo
 - não houve inscrição, execução nem resultado a observar;
 - não houve dados de concorrência, notas, pareceres ou validação de banca;
 - a recomendação dependia de informações que a LIMEBH ainda precisaria confirmar;
-- alguns documentos originais foram utilizados no trabalho de 2026, mas não permanecem todos disponíveis no workspace da consolidação retrospectiva;
+- nem todas as cópias dos documentos-fonte utilizados em 2026 permanecem preservadas neste repositório; esta publicação foi organizada a partir do guia estratégico original e dos registros disponíveis;
 - o case não atualiza nem substitui a leitura do edital que foi feita no período original.
 
 ## Leia o documento completo
@@ -88,20 +88,13 @@ Não houve RAG, embeddings, banco vetorial, agentes autônomos, modelo preditivo
 - Anexos I a VIII e X do chamamento.
 - Guia Simplificado BH Fomento.
 
-O link oficial é mantido como referência pública do chamamento. Os documentos são citados pelo nome porque nem todas as cópias utilizadas no trabalho original foram preservadas neste repositório.
+O link oficial identifica o chamamento utilizado no trabalho. Os documentos são citados pelo nome.
 
 ### Fonte interna utilizada no trabalho original
 
 - Estatuto Social da LIMEBH, em versão de trabalho.
 
 O estatuto não é publicado nem linkado: tratava-se de documento interno e continha elementos de rascunho.
-
-### Materiais internos revisitados na consolidação retrospectiva
-
-- `GUIA_ESTRATEGICO_FOMENTO_BH_2026.md`;
-- `auditoria-retrospectiva-fomento-bh-2026.md`.
-
-Esses materiais foram utilizados na consolidação do case, mas não integram a publicação deste repositório.
 
 ## Licença
 

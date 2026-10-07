@@ -43,7 +43,7 @@ Não estavam no escopo a submissão de proposta, a seleção de equipe final, o 
 
 ### Fontes utilizadas no trabalho original
 
-O guia estratégico registra o uso das seguintes fontes:
+O trabalho utilizou as seguintes fontes:
 
 1. **Edital de Chamamento Público nº 04/2026 — BH Fomento a Projetos Anuais e Ações Continuadas.** Base para regras de participação, modalidades, cotas, habilitação, execução e prestação de informações.
 2. **Anexo I — Categorias, vagas e valores.** Base para os tetos financeiros, vagas e enquadramento das categorias.
@@ -60,11 +60,7 @@ O guia estratégico registra o uso das seguintes fontes:
 
 - [Chamamento Público nº 04/2026 — Fomento BH / PNAB Ciclo 2 — Mapa Cultural BH](https://mapaculturalbh.pbh.gov.br/projeto/1995/)
 
-O link é mantido como referência oficial do chamamento usado no trabalho original. Não são adicionadas versões posteriores de documentos para alterar retrospectivamente a análise de 2026.
-
-### Fontes revisitadas nesta consolidação
-
-Este case foi redigido a partir de dois registros preservados: `GUIA_ESTRATEGICO_FOMENTO_BH_2026.md`, fonte substantiva principal, e `auditoria-retrospectiva-fomento-bh-2026.md`, usada para delimitar fatos, lacunas e limites da reconstrução. Nem todos os arquivos-fonte originais permaneceram disponíveis no workspace posterior.
+O link identifica o chamamento utilizado no trabalho. A análise se refere às regras examinadas em 2026, sem atualização a partir de versões posteriores dos documentos.
 
 ### Proteção de dados e documentos internos
 
@@ -72,7 +68,7 @@ O estatuto em versão de trabalho, declarações, documentos de identificação,
 
 ## 4. Como o trabalho foi conduzido
 
-O fluxo efetivamente documentado foi uma cadeia de orientação e apoio à decisão:
+O trabalho foi conduzido como uma cadeia de orientação e apoio à decisão:
 
 > documentação → regras → restrições e oportunidades → forma de inscrição → cotas → categorias → riscos → alternativas de projeto → comparação qualitativa → recomendação → orientação para futura redação
 
@@ -102,11 +98,11 @@ Por fim, o trabalho relacionou campos do Plano de Trabalho a perguntas práticas
 
 ### 5.1 Modalidade
 
-O foco foi o **Fomento Anual**, tratado como a modalidade aplicável à LIMEBH naquele momento. A orientação não registrou tentativa de inscrição no Fomento Bianual nem o avaliou como rota recomendada para uma organização em fase inicial.
+O foco foi o **Fomento Anual**, tratado como a modalidade aplicável à LIMEBH naquele momento. Não houve tentativa de inscrição no Fomento Bianual, que não foi recomendado como rota para uma organização em fase inicial.
 
 ### 5.2 Forma de inscrição
 
-| Rota | Leitura registrada |
+| Rota | Avaliação |
 |---|---|
 | Pessoa física individual | Possível, mas menos adequada se o projeto pretendesse se apresentar como articulação coletiva da LIMEBH. |
 | Coletivo sem CNPJ com representante pessoa física | Rota-base recomendada se a associação ainda não estivesse plenamente formalizada; exigiria representação formal do grupo. |
@@ -116,13 +112,13 @@ O objetivo não era escolher definitivamente um proponente, mas indicar quais fa
 
 ### 5.3 Cotas
 
-A análise registrou que a candidatura cotista concorreria também à ampla concorrência. Por isso, a cota poderia ampliar a rota de classificação sem reduzir a possibilidade de seleção geral. A recomendação, porém, era estritamente condicionada: só deveria ser usada se a composição real do proponente ou da equipe atendesse ao requisito aplicável.
+A candidatura cotista concorreria também à ampla concorrência. Por isso, a cota poderia ampliar a rota de classificação sem reduzir a possibilidade de seleção geral. A recomendação, porém, era estritamente condicionada: só deveria ser usada se a composição real do proponente ou da equipe atendesse ao requisito aplicável.
 
 Não houve confirmação de composição de equipe, escolha de representante, autodeclaração individual ou uso efetivo de cota.
 
 ### 5.4 Categorias e valores
 
-| Categoria anual | Teto por proposta registrado | Vagas para pessoas negras registradas | Uso e risco observados |
+| Categoria anual | Teto por proposta | Vagas para pessoas negras | Uso e risco observados |
 |---|---:|---:|---|
 | Circulação | R$ 100.000 | 3 | Útil para levar artistas ou obras para fora de BH; dependia de destinos, deslocamentos e articulações externas sólidos. |
 | Difusão | R$ 100.000 | 3 | Adequada para mostra ou festival; exigia programação, curadoria, locais, anuências e capacidade de produção. |
@@ -145,7 +141,7 @@ O trabalho não estimou concorrência, probabilidade de aprovação ou pontuaç�
 
 **Viabilidade percebida.** Alta em comparação às demais rotas, desde que houvesse equipe e operação coerentes.
 
-**Conclusão registrada.** Alternativa prioritária para uma primeira inscrição forte e realista.
+**Conclusão.** Alternativa prioritária para uma primeira inscrição forte e realista.
 
 ### 6.2 Mapa Vivo da Música Eletrônica de Belo Horizonte
 
@@ -158,7 +154,7 @@ O trabalho não estimou concorrência, probabilidade de aprovação ou pontuaç�
 
 **Viabilidade percebida.** Alta, mas condicionada a requisitos técnicos e relacionais mais específicos.
 
-**Conclusão registrada.** Segunda rota forte, especialmente se a equipe e a rede de fontes já estivessem disponíveis.
+**Conclusão.** Segunda rota forte, especialmente se a equipe e a rede de fontes já estivessem disponíveis.
 
 ### 6.3 Mostra LIMEBH — Circuito da Música Eletrônica
 
@@ -171,7 +167,7 @@ O trabalho não estimou concorrência, probabilidade de aprovação ou pontuaç�
 
 **Viabilidade percebida.** Condicional.
 
-**Conclusão registrada.** Considerar apenas com capacidade operacional e documentação já amadurecidas; não era a rota prioritária.
+**Conclusão.** Considerar apenas com capacidade operacional e documentação já amadurecidas; não era a rota prioritária.
 
 ### 6.4 Frequências de BH — Compilação e Registro Audiovisual da Cena
 
@@ -184,11 +180,11 @@ O trabalho não estimou concorrência, probabilidade de aprovação ou pontuaç�
 
 **Viabilidade percebida.** Condicional.
 
-**Conclusão registrada.** Possibilidade válida, mas não prioritária sem estrutura artística e técnica já confirmada.
+**Conclusão.** Possibilidade válida, mas não prioritária sem estrutura artística e técnica já confirmada.
 
 ### Circulação
 
-Circulação foi analisada como categoria, mas não virou briefing prioritário. A razão registrada foi a dependência de destinos, plano de deslocamento e convites ou articulações externas mais consistentes.
+Circulação foi analisada como categoria, mas não virou briefing prioritário porque dependia de destinos, plano de deslocamento e convites ou articulações externas mais consistentes.
 
 ## 7. Comparação qualitativa das alternativas
 
@@ -203,7 +199,7 @@ Essa comparação é qualitativa e orientadora. Não é nota de banca, ranking p
 
 ## 8. Recomendação
 
-A orientação final recuperada foi:
+A orientação final foi:
 
 1. observar o Fomento Anual como caminho de inscrição;
 2. preferir coletivo sem CNPJ com representante pessoa física caso a associação ainda não estivesse plenamente formalizada;
@@ -227,7 +223,7 @@ Essa recomendação não foi implementada. Ela era uma orientação para decisã
 
 ## 10. Orientações para uma futura inscrição
 
-O guia original indicou uma lógica de redação, sem preencher uma proposta:
+O trabalho definiu uma lógica de redação para uma futura proposta:
 
 | Elemento | Pergunta de controle |
 |---|---|
@@ -241,7 +237,7 @@ O guia original indicou uma lógica de redação, sem preencher uma proposta:
 | Divulgação | Existem público, canais, calendário, responsáveis e indicadores? |
 | Evidências | Listas, registros, links, autorizações e comprovantes estão previstos desde a preparação? |
 
-O material também recomendava não duplicar fontes de financiamento para o mesmo item, guardar referências de preço para itens relevantes e manter coerência entre plano, orçamento e produto final.
+A orientação também foi não duplicar fontes de financiamento para o mesmo item, guardar referências de preço para itens relevantes e manter coerência entre plano, orçamento e produto final.
 
 ## 11. Papel da LLM
 
@@ -257,22 +253,22 @@ A LLM atuou como ferramenta de apoio à leitura e à organização do raciocíni
 
 A LLM não escolheu um projeto, não validou elegibilidade, não tomou decisão de cota, não previu aprovação e não automatizou inscrição. Essas escolhas dependeriam de pessoas da LIMEBH e de dados que ainda não existiam ou não foram confirmados.
 
-Não houve evidência de RAG, embeddings, banco vetorial, agentes autônomos, modelo preditivo, classificação automática, scoring algorítmico, automação de formulário ou pipeline de software.
+O trabalho não utilizou RAG, embeddings, banco vetorial, agentes autônomos, modelo preditivo, classificação automática, scoring algorítmico, automação de formulário ou pipeline de software.
 
 ## 12. Limitações
 
 - Não há proposta submetida ou resultado para avaliar.
 - Não há nota, parecer, ranking ou feedback oficial de banca.
-- O material não mede concorrência nem estima probabilidade de aprovação.
+- O trabalho não mediu concorrência nem estimou probabilidade de aprovação.
 - Representante, composição da equipe, elegibilidade para cota, parceiros, locais, cronograma, orçamento e documentação definitiva continuaram abertos.
-- A consolidação retrospectiva teve acesso ao guia original e à auditoria, mas não a todas as cópias dos documentos-fonte utilizados em 2026.
-- Não houve validação jurídica ou confirmação oficial registrada das interpretações do guia.
+- Nem todas as cópias dos documentos-fonte utilizados em 2026 permanecem preservadas neste repositório; esta publicação foi organizada a partir do guia estratégico original e dos registros disponíveis.
+- As interpretações não contaram com validação jurídica ou confirmação oficial documentada.
 
 ## 13. Conclusão
 
 O trabalho demonstrou uma aplicação situada de LLM para transformar documentação pública e contexto institucional em orientação estratégica. O valor não está em alegar que a IA decidiu uma inscrição ou previu um resultado. Está em tornar legíveis as escolhas que precisariam ser feitas antes de uma proposta existir: quem poderia se inscrever, sob quais condições, em qual categoria, com que riscos e com quais caminhos de projeto mais coerentes.
 
-Como não houve inscrição, a contribuição deve ser lida como planejamento e apoio à decisão prévia. O registro preserva tanto a recomendação quanto seus limites.
+Como não houve inscrição, a contribuição foi o planejamento e o apoio à decisão prévia, com uma recomendação condicionada às informações que a LIMEBH ainda precisaria confirmar.
 
 ## Referências e fontes
 
@@ -287,11 +283,6 @@ Como não houve inscrição, a contribuição deve ser lida como planejamento e 
 - Guia Simplificado BH Fomento.
 - Estatuto Social da LIMEBH, em versão de trabalho interna.
 
-### Materiais revisitados na consolidação retrospectiva
-
-- `GUIA_ESTRATEGICO_FOMENTO_BH_2026.md`.
-- `auditoria-retrospectiva-fomento-bh-2026.md`.
-
-Esses materiais internos foram utilizados na consolidação retrospectiva do case, mas não integram os arquivos públicos deste repositório.
+Na preparação desta publicação, foram utilizados internamente `GUIA_ESTRATEGICO_FOMENTO_BH_2026.md` e `auditoria-retrospectiva-fomento-bh-2026.md`. Esses materiais não integram os arquivos públicos deste repositório; a auditoria foi posterior ao trabalho de orientação apresentado neste case.
 
 Os documentos privados, versões de trabalho e dados pessoais não são publicados. As fontes originais são citadas para situar o trabalho realizado, não para sugerir nova análise ou atualização posterior.

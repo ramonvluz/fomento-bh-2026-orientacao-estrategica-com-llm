@@ -77,7 +77,8 @@ Não houve RAG, embeddings, banco vetorial, agentes autônomos, modelo preditivo
 
 ## Leia o documento completo
 
-[Orientação Estratégica Fomento BH 2026](orientacao-estrategica-fomento-bh-2026.md)
+- [Orientação Estratégica em Markdown](orientacao-estrategica-fomento-bh-2026.md)
+- [Relatório em PDF](Fomento_BH_2026_Orientacao_Estrategica_Assistida_por_LLM.pdf)
 
 ## Fontes
 

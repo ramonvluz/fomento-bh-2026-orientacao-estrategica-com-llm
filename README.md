@@ -96,10 +96,12 @@ O link oficial é mantido como referência pública do chamamento. Os documentos
 
 O estatuto não é publicado nem linkado: tratava-se de documento interno e continha elementos de rascunho.
 
-### Materiais revisitados na consolidação retrospectiva
+### Materiais internos revisitados na consolidação retrospectiva
 
 - `GUIA_ESTRATEGICO_FOMENTO_BH_2026.md`;
 - `auditoria-retrospectiva-fomento-bh-2026.md`.
+
+Esses materiais foram utilizados na consolidação do case, mas não integram a publicação deste repositório.
 
 ## Licença
 

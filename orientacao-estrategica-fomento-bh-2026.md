@@ -292,4 +292,6 @@ Como não houve inscrição, a contribuição deve ser lida como planejamento e 
 - `GUIA_ESTRATEGICO_FOMENTO_BH_2026.md`.
 - `auditoria-retrospectiva-fomento-bh-2026.md`.
 
+Esses materiais internos foram utilizados na consolidação retrospectiva do case, mas não integram os arquivos públicos deste repositório.
+
 Os documentos privados, versões de trabalho e dados pessoais não são publicados. As fontes originais são citadas para situar o trabalho realizado, não para sugerir nova análise ou atualização posterior.
